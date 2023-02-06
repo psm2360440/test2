@@ -3,3 +3,4 @@
 "Wish me good luck"
 "It's time to go home"
 "Fifth Commit of Today"
+"add commit push is the most basic routine"
